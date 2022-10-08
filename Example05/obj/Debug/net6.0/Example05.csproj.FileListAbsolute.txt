@@ -1,0 +1,15 @@
+D:\GIT\Семинары С#\С# 2Семинар\Example05\obj\Debug\net6.0\Example05.csproj.AssemblyReference.cache
+D:\GIT\Семинары С#\С# 2Семинар\Example05\obj\Debug\net6.0\Example05.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\Семинары С#\С# 2Семинар\Example05\obj\Debug\net6.0\Example05.AssemblyInfoInputs.cache
+D:\GIT\Семинары С#\С# 2Семинар\Example05\obj\Debug\net6.0\Example05.AssemblyInfo.cs
+D:\GIT\Семинары С#\С# 2Семинар\Example05\obj\Debug\net6.0\Example05.csproj.CoreCompileInputs.cache
+D:\GIT\Семинары С#\С# 2Семинар\Example05\bin\Debug\net6.0\Example05.exe
+D:\GIT\Семинары С#\С# 2Семинар\Example05\bin\Debug\net6.0\Example05.deps.json
+D:\GIT\Семинары С#\С# 2Семинар\Example05\bin\Debug\net6.0\Example05.runtimeconfig.json
+D:\GIT\Семинары С#\С# 2Семинар\Example05\bin\Debug\net6.0\Example05.dll
+D:\GIT\Семинары С#\С# 2Семинар\Example05\bin\Debug\net6.0\Example05.pdb
+D:\GIT\Семинары С#\С# 2Семинар\Example05\obj\Debug\net6.0\Example05.dll
+D:\GIT\Семинары С#\С# 2Семинар\Example05\obj\Debug\net6.0\refint\Example05.dll
+D:\GIT\Семинары С#\С# 2Семинар\Example05\obj\Debug\net6.0\Example05.pdb
+D:\GIT\Семинары С#\С# 2Семинар\Example05\obj\Debug\net6.0\Example05.genruntimeconfig.cache
+D:\GIT\Семинары С#\С# 2Семинар\Example05\obj\Debug\net6.0\ref\Example05.dll
